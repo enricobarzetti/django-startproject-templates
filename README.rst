@@ -17,6 +17,13 @@ The ``.`` puts the ``manage.py`` in the current directory.
 Templates
 ---------
 
+``spa``
+~~~~~~~
+
+SPA for use with Vite
+
+`django-admin startproject example . --template ~/repos/django-startproject-templates/spa --extension env`
+
 ``simple``
 ~~~~~~~~~~
 
