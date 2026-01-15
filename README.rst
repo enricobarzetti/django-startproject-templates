@@ -22,7 +22,7 @@ Templates
 
 SPA for use with Vite
 
-`django-admin startproject example . --template ~/repos/django-startproject-templates/spa --extension env`
+``django-admin startproject example . --template ~/repos/django-startproject-templates/spa --extension env``
 
 ``simple``
 ~~~~~~~~~~
