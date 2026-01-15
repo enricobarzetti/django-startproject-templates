@@ -24,7 +24,7 @@ SPA for use with Vite
 
 .. code-block:: console
 
-    poetry add whitenoise django-extensions djangorestframework psycopg2-binary django-cors-headers gunicorn
+    poetry add whitenoise django-environ django-extensions djangorestframework psycopg2-binary django-cors-headers gunicorn
     poetry add ipython isort pudb --group dev
 
 .. code-block:: console
