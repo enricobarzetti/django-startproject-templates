@@ -22,6 +22,11 @@ Templates
 
 SPA for use with Vite
 
+```
+poetry add whitenoise django-extensions djangorestframework psycopg2-binary django-cors-headers gunicorn
+poetry add ipython isort pudb --group dev
+```
+
 ``django-admin startproject example . --template ~/repos/django-startproject-templates/spa --extension env``
 
 ``simple``
